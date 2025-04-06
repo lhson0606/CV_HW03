@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 ## Usage
 ### Training
-- Add your dataset to the `data` folder, including ![MNIST](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv) and ![Fashion MNIST](https://www.kaggle.com/datasets/zalando-research/fashionmnist).
+- Add your dataset to the `data` folder, including [MNIST](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv) and [Fashion MNIST](https://www.kaggle.com/datasets/zalando-research/fashionmnist).
 - Run the training scripts in `scripts` folder.
 - The models will be saved in the `builds` folder.
 ### GUI application
